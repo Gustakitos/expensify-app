@@ -1,0 +1,8 @@
+{
+    "snapshotSerializers": [
+        "enzime-to-json/serialize"
+    ],
+    "setupFiles": [
+        "<rootDir>/src/tests/setupTests.js"
+    ]
+}
